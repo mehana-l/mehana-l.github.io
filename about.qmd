@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+### Where i'm From
 
-```{r}
-1 + 1
-```
+My name is Mehana Leafchild I was born and raised on the East side of Oahu. I love to hike, surf, paddle, run, and spend time with my family. I have grown up playing in Hawaii's beautiful mountains and beaches. My affinity to these beautiful places have brought me to want to make a career out of protecting them. I want to preserve and protect the ecosystems, resources, and culture of Hawaii for future generations to enjoy.
+
+#### 
+
+![](screenshot.png){fig-align="center" width="25%"}

@@ -4,13 +4,22 @@ image: Mehana_Suit_29Dec23_CFunk-10.jpg
 toc: false
 about: 
   template: solana
-  image-shape: round
-  image-width: 3cm
-  links: 
+  image-shape: rounded
+  image-width: 4cm
+  links:
     - icon: github
-      href: https
+      href: https://github.com/mehana-l
+      target: blank
+    - icon: linkedin
+      href: http://linkedin.com/in/mehanaleafchild
+      target: blank
+    - text: Email
+      icon: envelope
+      href: mehanaleafchild@gmail.com
 ---
 
 Aloha mai kakou!
 
-My name is Mehana Leafchild I am a Senior at Chaminade University of Honolulu. I am studying Environmental Science and hope to attain my PhD in the Future! This website is a compilation of current past and future projects I have worked on and what to work on! Please feel free to poke around.
+My name is Mehana Leafchild I am a Senior at Chaminade University of Honolulu. I am studying Environmental Science and hope to attain my PhD in the Future! This website is a compilation of current past and future projects I have worked on or would like to work on. Please feel free to poke around. Please reach out through email or LinkedIn if you have any questions.
+
+Malama pono!

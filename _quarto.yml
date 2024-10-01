@@ -8,11 +8,28 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: aboutme.qmd
+        text: About Me
+      - href: projects.qmd
+        text: My Projects
+      - href: cv.qmd
+        text: CV
+      - icon: github
+        href: https://github.com/mehana-l
+        target: blank
+    background: secondary
+    search: true
+    pinned: true
+  page-footer:
+    left: © Copyright 2024, Mehana Leafchild
+    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
+        
+        
+        
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 
