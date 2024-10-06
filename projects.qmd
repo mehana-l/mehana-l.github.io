@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+# Here are some of my projects I have worked on!
+
+### Mosquito Research
+
+In 2022 I had the opportunity to work in the INSTAR Lab at UH Manoa. There I worked over the summer looking at mosquito cold tolerance in relation to their microbiome. I found that males were less tolerant to cold than females and that the more diverse the mosquitoes microbiome the more tolerant they were to cold.
+
+{{< pdf coolmosquitoes.pdf >}}

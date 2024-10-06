@@ -1,11 +1,11 @@
 ---
 title: "Mehana Leafchild"
-image: Mehana_Suit_29Dec23_CFunk-10.jpg
+image: logo.png
 toc: false
 about: 
   template: solana
   image-shape: rounded
-  image-width: 4cm
+  image-width: 10cm
   links:
     - icon: github
       href: https://github.com/mehana-l
@@ -23,3 +23,4 @@ Aloha mai kakou!
 My name is Mehana Leafchild I am a Senior at Chaminade University of Honolulu. I am studying Environmental Science and hope to attain my PhD in the Future! This website is a compilation of current past and future projects I have worked on or would like to work on. Please feel free to poke around. Please reach out through email or LinkedIn if you have any questions.
 
 Malama pono!
+

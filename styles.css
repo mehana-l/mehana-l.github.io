@@ -1,1 +1,10 @@
 /* css styles */
+
+ .navbar {
+   background-color: pink;
+ }
+ 
+ * { 
+  color: olivedrab;
+  font: constantia;
+}
