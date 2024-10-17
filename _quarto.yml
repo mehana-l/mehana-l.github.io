@@ -23,14 +23,12 @@ website:
   page-footer:
     left: © Copyright 2024, Mehana Leafchild
     right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
-        
-        
-        
 
 format:
   html:
-    theme: sandstone
-    light: minty
+    theme: 
+      light: minty
+      dark: sandstone
     css: styles.css
     toc: true
 
