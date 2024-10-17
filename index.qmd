@@ -15,7 +15,7 @@ about:
       target: blank
     - text: Email
       icon: envelope
-      href: mehanaleafchild@gmail.com
+      href: mailto:mehanaleafchild@gmail.com
 ---
 
 Aloha mai kakou!
