@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: "About Me"
+        text: About Me
       - href: projects.qmd
-        text: "My Projects"
+        text: My Projects
       - href: cv.qmd
         text: CV
       - icon: github
